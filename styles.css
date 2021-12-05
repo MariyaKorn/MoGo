@@ -1078,10 +1078,11 @@
 }
 
 .latest-blog {
-    background: url(/images/blogback.png);
+    background: url(/images/blogback.png) no-repeat;
     width: 100%;
     height: 231px;
     position: relative;
+    background-size: cover;
 }
 
 .latest-blog::before {
