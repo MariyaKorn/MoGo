@@ -1078,7 +1078,7 @@
 }
 
 .latest-blog {
-    background: url(/images/blogback.png) no-repeat;
+    background: url(images/blogback.png) no-repeat;
     width: 100%;
     height: 231px;
     position: relative;
