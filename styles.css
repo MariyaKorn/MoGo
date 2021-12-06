@@ -610,7 +610,8 @@
 }  
 
 .arrow-bottom:active {
-    transform: rotate(-45deg); 
+    transform: rotate(-45deg);
+    transition: 0.3s ease-in-out; 
 }
 
 .what-wrapper-content p {
